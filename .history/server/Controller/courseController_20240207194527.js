@@ -1,4 +1,0 @@
-const createCourse = (req,res)=>{
-
-}
-
